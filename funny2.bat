@@ -1,0 +1,36 @@
+@echo off
+title Ghost Keyboard
+color 0A
+mode 80,25
+cls
+
+:: Start with a fake loading screen
+echo Initializing keyboard...
+ping -n 3 127.0.0.1 >nul
+cls
+echo Synchronizing with brain waves...
+ping -n 3 127.0.0.1 >nul
+cls
+echo Connection established!
+ping -n 2 127.0.0.1 >nul
+cls
+
+:: Start infinite typing loop
+:loop
+ping -n 2 127.0.0.1 >nul
+echo Why are you typing? This is MY computer now...
+ping -n 3 127.0.0.1 >nul
+echo Stop pressing keys! I'm doing the typing...
+ping -n 2 127.0.0.1 >nul
+echo Did you hear that? Something moved behind you.
+ping -n 3 127.0.0.1 >nul
+echo I'm watching you. Through the webcam. >:D
+ping -n 4 127.0.0.1 >nul
+echo Just kidding... or am I?
+ping -n 3 127.0.0.1 >nul
+echo I have taken control. You may leave now.
+ping -n 3 127.0.0.1 >nul
+echo Hahaha! You can't stop me!
+ping -n 3 127.0.0.1 >nul
+cls
+goto loop

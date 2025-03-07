@@ -1,0 +1,60 @@
+If you're looking to access files on another laptop via a batch script, you can use **network shared folders** or **mapped drives** to access files remotely. Here’s a simple way to set up a batch script to access files on another laptop in a local network.
+
+### **Scenario: Access Files on a Remote Laptop (Shared Folder)**
+
+1. **Share a folder on the remote laptop**:  
+   On the laptop you want to access (the remote laptop), share a folder by right-clicking the folder → Properties → Sharing → Advanced Sharing → Share this folder.
+
+2. **Batch script to access the shared folder**:  
+   After sharing the folder, you can use the following batch script to access it.
+
+### Example: Batch Script to Access Files from a Shared Folder
+
+```batch
+@echo off
+set /p remote_computer=Enter the IP address or hostname of the remote laptop: 
+set /p folder_name=Enter the shared folder name (e.g., "SharedFolder"): 
+set /p drive_letter=Enter the drive letter to map (e.g., "Z"): 
+
+:: Map the shared folder to a network drive
+net use %drive_letter% \\%remote_computer%\%folder_name%
+
+:: Open the shared folder in File Explorer
+start %drive_letter%:
+
+pause
+```
+
+### **How it works:**
+1. The script asks for the **IP address or hostname** of the remote laptop.
+2. It then asks for the **name of the shared folder**.
+3. The script maps the shared folder to a network drive (for example, `Z:`).
+4. Finally, the script opens the shared folder in File Explorer using the mapped drive letter.
+
+### **Important Notes:**
+- **Network access**: Make sure both laptops are on the same local network, and the remote laptop's firewall allows file sharing.
+- **Permissions**: The shared folder must have appropriate permissions for the user to access it.
+- **Credentials**: If required, you may need to enter a username and password for the remote machine. You can modify the script to include credentials like this:
+  
+  ```batch
+  net use %drive_letter% \\%remote_computer%\%folder_name% /user:username password
+  ```
+
+### **Alternative: Access Files using UNC Path Directly**
+
+If you don’t want to map a network drive, you can directly access the shared folder using the **UNC path** in a batch file:
+
+```batch
+@echo off
+set /p remote_computer=Enter the IP address or hostname of the remote laptop: 
+set /p folder_name=Enter the shared folder name (e.g., "SharedFolder"): 
+
+:: Open the shared folder directly
+start \\%remote_computer%\%folder_name%
+
+pause
+```
+
+This opens the shared folder in File Explorer directly without needing to map a network drive.
+
+Let me know if you need further clarification or other scripts! 😊
