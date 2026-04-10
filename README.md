@@ -1,117 +1,18 @@
-RAJVARDHAN SINGH
-DevOps Engineer | Cloud Enthusiast | Infrastructure as Code
+# 💫 About Me:
+RAJVARDHAN SINGH<br>Web Developer & DevOps Enthusiast<br><br>Mahaveer Bagh, Navlakh, Indore, Madhya Pradesh, India<br>rajvardhancoder@gmail.com | +91 9770289936<br>github.com/singhrajvardhan | www.rajvardhansingh.in<br><br>────────────────────────────────────────────────────────────<br><br>OBJECTIVE<br><br>Motivated final-year BCA student with strong front-end foundation and hands-on DevOps, CI/CD, Docker, and AWS experience. Passionate about building beautiful, fast, and secure digital experiences — from pixel-perfect UIs to auto-scaling cloud infrastructure. Seeking an entry-level Web Developer or Cloud/DevOps Engineer role.<br><br>────────────────────────────────────────────────────────────<br><br>TECHNICAL SKILLS<br><br>Frontend:      HTML5, CSS3, JavaScript (ES6+), React, Next.js, Vue, Tailwind, SCSS<br>UI/UX:         Figma, Adobe XD, design systems, prototypes<br>DevOps/Cloud:  Git, GitHub Actions, Docker, Kubernetes, AWS (EC2, S3, Lambda, VPC, RDS), CloudFormation, Terraform<br>Tools:         VS Code, npm/yarn, Netlify, Vercel, Linux, Helm<br>Other:         SEO basics, Digital Marketing, Private Cloud (Nextcloud/CASEOS)<br><br>────────────────────────────────────────────────────────────<br><br>PROJECTS<br><br>CI/CD Pipeline with GitHub Actions & Multi-Cloud<br>Automated build, test, and deployment to Netlify/Vercel/AWS on every git push.<br>Tools: GitHub Actions, Docker, AWS<br>Outcome: Zero-touch, reliable deployments<br><br>Personal Private Cloud (Nextcloud + CASEOS)<br>Self-hosted secure cloud storage using Docker containers. Integrated with personal portfolio for private file sync.<br>Tools: Docker, Nextcloud, Linux, Nginx<br>Outcome: Own cloud infrastructure — no third-party dependency<br><br>AWS EC2 + CloudFormation (Infrastructure as Code)<br>Deployed static websites on AWS EC2. Automated VPC, subnets, security groups, and EC2 instances using CloudFormation.<br>Tools: AWS EC2, CloudFormation, IAM, CLI<br>Outcome: Repeatable, version-controlled cloud infrastructure<br><br>Secure Exam Platform (Group Project) - LIVE<br>URL: https://examsystem.liveblog365.com/<br>Role-based secure exam system with authentication, timer, auto-grading, and admin dashboard.<br>Stack: [React/Node/PHP + MySQL + Docker]<br>Outcome: Production platform used by real users<br><br>Thikana Dhabla<br>Heritage preservation website with family tree visualization. Tools: React, SCSS<br><br>Deep Architect<br>Architecture firm portfolio with image galleries and contact form. Tools: Next.js, Tailwind<br><br>JuzVents<br>Mobile-first event company website with optimized performance. Tools: Vue, GSAP<br><br>Personal Portfolio<br>Modern portfolio with animations, responsive design, deployed on 3+ platforms<br><br>────────────────────────────────────────────────────────────<br><br>EDUCATION<br><br>Bachelor of Computer Applications (BCA) - Final Year<br>Govt. Holkar Science College, Indore<br><br>────────────────────────────────────────────────────────────<br><br>ACHIEVEMENTS<br><br>• 7+ live projects including CI/CD pipelines, private cloud, exam platform, and AWS infrastructure<br>• 4+ freelance websites delivered with positive client feedback<br>• Self-taught frontend development + DevOps + cloud computing alongside BCA coursework<br>• Deployed personal private cloud using Docker & Nextcloud<br>• Built production-grade CI/CD pipeline from scratch<br><br>────────────────────────────────────────────────────────────<br><br>CERTIFICATIONS<br><br>• AWS Cloud Practitioner (familiar – self-paced)<br>• Docker & Kubernetes hands-on workshop<br>• GitHub Actions CI/CD (project-based)<br><br>────────────────────────────────────────────────────────────<br><br><br>────────────────────────────────────────────────────────────<br>© 2026 — Infused with creativity ✨
 
-Mahaveer Bagh, Navlakh, Indore, Madhya Pradesh, India
-rajvardhancoder@gmail.com | +91 9770289936
-github.com/singhrajvardhan | www.rajvardhansingh.in
 
-────────────────────────────────────────────────────────────
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webbyraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvardhan-singh-badgujjar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajvardhancoder@gmail.com) 
 
-PROFESSIONAL SUMMARY
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=singhrajvardhan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=singhrajvardhan&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhrajvardhan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Hands-on DevOps engineer with end-to-end cloud-native project experience. 
-Built production-like CI/CD pipelines, serverless architectures, and self-hosted 
-infrastructure using AWS, Terraform, Docker, and GitHub Actions. Final-year BCA 
-student with strong automation and infrastructure-as-code mindset. 
-Seeking Cloud/DevOps Engineer role.
+---
+[![](https://visitcount.itsvg.in/api?id=singhrajvardhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-────────────────────────────────────────────────────────────
-
-TECHNICAL SKILLS
-
-Infrastructure as Code: Terraform, AWS CloudFormation
-CI/CD:              GitHub Actions, automated pipelines
-Containers:         Docker, Docker Compose, Kubernetes (basics)
-Cloud (AWS):        EC2, S3, Lambda, API Gateway, CloudFront, VPC, RDS, 
-                    CloudWatch, SNS, IAM, CloudFormation
-Monitoring:         CloudWatch Logs, Alarms, Dashboards
-Security:           IAM Roles/Policies, Pre-signed URLs, Cloudflare Tunnel
-Version Control:    Git, GitHub
-Scripting:          Python (Lambda), Bash
-Web Technologies:   HTML5, CSS3, JavaScript, React (basic)
-
-────────────────────────────────────────────────────────────
-
-CORE DEVOPS PROJECTS
-
-DevOps Accelerator (End-to-End Cloud-Native Platform)
-├── GitHub: github.com/singhrajvardhan/DevOps_Accelerator
-├── What: Fully automated serverless file processing platform
-├── Tech: Terraform + GitHub Actions + AWS (Lambda, S3, API Gateway, CloudFront, SNS, CloudWatch)
-├── Key Achievements:
-│   • Built modular Terraform infrastructure with remote state (S3 + DynamoDB locking)
-│   • Created 3 separate CI/CD pipelines (frontend, backend, infra) via GitHub Actions
-│   • Implemented secure file upload using pre-signed S3 URLs
-│   • Configured event-driven Lambda processing with S3 triggers
-│   • Set up CloudWatch monitoring + SNS email alerts
-└── Outcome: Production-ready, serverless, cost-efficient platform
-
-Personal Private Cloud (Self-Hosted Nextcloud)
-├── GitHub: github.com/singhrajvardhan/personal-private-CLoud
-├── What: Google Drive alternative hosted on own server
-├── Tech: Docker, Nextcloud, PostgreSQL, Redis, Cloudflare Tunnel, Linux
-├── Key Achievements:
-│   • Containerized full-stack cloud storage with Docker Compose
-│   • Secured external access via Cloudflare Tunnel (HTTPS)
-│   • Configured PostgreSQL for data persistence + Redis for caching
-│   • Documented architecture, installation, troubleshooting, security, backup
-└── Outcome: Fully functional private cloud accessible from anywhere
-
-AWS EC2 + S3 Static Website Hosting
-├── GitHub: github.com/singhrajvardhan/aws-ec2-s3-static-website
-├── What: Hybrid cloud hosting demonstration
-├── Tech: AWS EC2 (web server), S3 (asset storage)
-└── Outcome: Scalable static hosting with cloud-native asset delivery
-
-CloudFormation Project
-├── GitHub: github.com/singhrajvardhan/CloudFormation-project
-└── Infrastructure as Code using AWS native tooling
-
-────────────────────────────────────────────────────────────
-
-ADDITIONAL PROJECTS (Web Development)
-
-Thikana Dhabla (Live: thikanadhabla.in)
-Heritage preservation website with responsive design. Tech: React, SCSS
-
-Deep Architect (Live: deeparchitect.in)
-Architecture firm portfolio with galleries & contact form. Tech: Next.js, Tailwind
-
-JuzVents
-Mobile-first event company website. Tech: Vue, GSAP
-
-────────────────────────────────────────────────────────────
-
-CERTIFICATIONS & LEARNING
-
-• AWS Cloud Practitioner (familiar – self-paced)
-• Terraform Associate (in progress)
-• Docker & Kubernetes hands-on
-• GitHub Actions CI/CD (project-based)
-
-────────────────────────────────────────────────────────────
-
-EDUCATION
-
-Bachelor of Computer Applications (BCA) – Final Year
-Govt. Holkar Science College, Indore
-
-────────────────────────────────────────────────────────────
-
-ACHIEVEMENTS
-
-• Built 2 major DevOps infrastructure projects from scratch
-• Deployed production-grade CI/CD pipelines with automated testing & deployment
-• Created self-hosted private cloud alternative to Google Drive
-• Documented all projects with architecture diagrams & setup guides
-• 7+ total live projects including cloud & web
-
-────────────────────────────────────────────────────────────
-
-DECLARATION
-
-I hereby declare that all the above information is true and correct.
-
-Rajvardhan Singh
-Place: Indore
-Date: 2026
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
