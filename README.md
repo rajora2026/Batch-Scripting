@@ -1,143 +1,117 @@
-<div align="center">
+RAJVARDHAN SINGH
+DevOps Engineer | Cloud Enthusiast | Infrastructure as Code
 
-# 📚 SmartExam · AI-Proctored Online Exam System
+Mahaveer Bagh, Navlakh, Indore, Madhya Pradesh, India
+rajvardhancoder@gmail.com | +91 9770289936
+github.com/singhrajvardhan | www.rajvardhansingh.in
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
-![Team](https://img.shields.io/badge/team-20%20members-brightgreen?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+────────────────────────────────────────────────────────────
 
-### 🔒 No Direct Push · PR Required · Code Review Mandatory
+PROFESSIONAL SUMMARY
 
-🌐 **Live Demo**: https://examsystem.liveblog365.com  
+Hands-on DevOps engineer with end-to-end cloud-native project experience. 
+Built production-like CI/CD pipelines, serverless architectures, and self-hosted 
+infrastructure using AWS, Terraform, Docker, and GitHub Actions. Final-year BCA 
+student with strong automation and infrastructure-as-code mindset. 
+Seeking Cloud/DevOps Engineer role.
 
-</div>
+────────────────────────────────────────────────────────────
 
----
+TECHNICAL SKILLS
 
-## 📌 Role Definitions
+Infrastructure as Code: Terraform, AWS CloudFormation
+CI/CD:              GitHub Actions, automated pipelines
+Containers:         Docker, Docker Compose, Kubernetes (basics)
+Cloud (AWS):        EC2, S3, Lambda, API Gateway, CloudFront, VPC, RDS, 
+                    CloudWatch, SNS, IAM, CloudFormation
+Monitoring:         CloudWatch Logs, Alarms, Dashboards
+Security:           IAM Roles/Policies, Pre-signed URLs, Cloudflare Tunnel
+Version Control:    Git, GitHub
+Scripting:          Python (Lambda), Bash
+Web Technologies:   HTML5, CSS3, JavaScript, React (basic)
 
-| Code | Meaning |
-|------|--------|
-| **F** | Frontend |
-| **B** | Backend |
-| **DB** | Database |
-| **DEV** | DevOps |
-| **T** | Testing |
+────────────────────────────────────────────────────────────
 
----
+CORE DEVOPS PROJECTS
 
-## 🎯 Overview
+DevOps Accelerator (End-to-End Cloud-Native Platform)
+├── GitHub: github.com/singhrajvardhan/DevOps_Accelerator
+├── What: Fully automated serverless file processing platform
+├── Tech: Terraform + GitHub Actions + AWS (Lambda, S3, API Gateway, CloudFront, SNS, CloudWatch)
+├── Key Achievements:
+│   • Built modular Terraform infrastructure with remote state (S3 + DynamoDB locking)
+│   • Created 3 separate CI/CD pipelines (frontend, backend, infra) via GitHub Actions
+│   • Implemented secure file upload using pre-signed S3 URLs
+│   • Configured event-driven Lambda processing with S3 triggers
+│   • Set up CloudWatch monitoring + SNS email alerts
+└── Outcome: Production-ready, serverless, cost-efficient platform
 
-**SmartExam** is an AI-powered online exam system with real-time proctoring to prevent cheating and ensure fairness.
+Personal Private Cloud (Self-Hosted Nextcloud)
+├── GitHub: github.com/singhrajvardhan/personal-private-CLoud
+├── What: Google Drive alternative hosted on own server
+├── Tech: Docker, Nextcloud, PostgreSQL, Redis, Cloudflare Tunnel, Linux
+├── Key Achievements:
+│   • Containerized full-stack cloud storage with Docker Compose
+│   • Secured external access via Cloudflare Tunnel (HTTPS)
+│   • Configured PostgreSQL for data persistence + Redis for caching
+│   • Documented architecture, installation, troubleshooting, security, backup
+└── Outcome: Fully functional private cloud accessible from anywhere
 
----
+AWS EC2 + S3 Static Website Hosting
+├── GitHub: github.com/singhrajvardhan/aws-ec2-s3-static-website
+├── What: Hybrid cloud hosting demonstration
+├── Tech: AWS EC2 (web server), S3 (asset storage)
+└── Outcome: Scalable static hosting with cloud-native asset delivery
 
-## 👥 Team Members
+CloudFormation Project
+├── GitHub: github.com/singhrajvardhan/CloudFormation-project
+└── Infrastructure as Code using AWS native tooling
 
-### 💻 Computer Science Team
+────────────────────────────────────────────────────────────
 
-| Name | Role | Work | Repo |
-|------|------|------|------|
-| **Rajvardhan** | Developer | F, T, DEV | https://github.com/your-username/rajvardhan-repo |
-| **Autosh** | Developer | F, B | https://github.com/your-username/autosh-repo |
+ADDITIONAL PROJECTS (Web Development)
 
----
+Thikana Dhabla (Live: thikanadhabla.in)
+Heritage preservation website with responsive design. Tech: React, SCSS
 
-### 🔐 Cyber Security Team
+Deep Architect (Live: deeparchitect.in)
+Architecture firm portfolio with galleries & contact form. Tech: Next.js, Tailwind
 
-| Name | Role | Work |
-|------|------|------|
-| Arjun Mehta | Lead | Security & AI Proctoring |
-| Priya Sharma | Member | Tab detection |
-| Rahul Verma | Member | Activity monitoring |
+JuzVents
+Mobile-first event company website. Tech: Vue, GSAP
 
----
+────────────────────────────────────────────────────────────
 
-### 🧪 Testing Team
+CERTIFICATIONS & LEARNING
 
-| Name | Role |
-|------|------|
-| Aditya Joshi | QA Testing |
-| Team Members | Manual + Automation Testing |
+• AWS Cloud Practitioner (familiar – self-paced)
+• Terraform Associate (in progress)
+• Docker & Kubernetes hands-on
+• GitHub Actions CI/CD (project-based)
 
----
+────────────────────────────────────────────────────────────
 
-### ⚙️ DevOps Team
+EDUCATION
 
-| Name | Role |
-|------|------|
-| Sanya Malhotra | CI/CD & Deployment |
-| Rajvardhan | Deployment & Server |
+Bachelor of Computer Applications (BCA) – Final Year
+Govt. Holkar Science College, Indore
 
----
+────────────────────────────────────────────────────────────
 
-## ✨ Features
+ACHIEVEMENTS
 
-- 🤖 AI Proctoring  
-- 📊 Real-time Monitoring  
-- 📝 Auto Scoring  
-- 📈 Analytics  
+• Built 2 major DevOps infrastructure projects from scratch
+• Deployed production-grade CI/CD pipelines with automated testing & deployment
+• Created self-hosted private cloud alternative to Google Drive
+• Documented all projects with architecture diagrams & setup guides
+• 7+ total live projects including cloud & web
 
----
+────────────────────────────────────────────────────────────
 
-## 🚀 Tech Stack
+DECLARATION
 
-- Frontend: React  
-- Backend: Node.js  
-- Database: PostgreSQL  
-- AI: OpenCV, TensorFlow  
-- DevOps: Nginx, PM2  
+I hereby declare that all the above information is true and correct.
 
----
-
-## 🔄 Contribution Workflow
-
-```bash
-git clone https://github.com/your-org/smart-exam.git
-cd smart-exam
-
-git checkout develop
-git checkout -b feature/your-feature
-
-git add .
-git commit -m "feat: your feature"
-
-git push origin feature/your-feature
-```
-
----
-
-## 🛡️ Rules
-
-- ❌ No direct push  
-- ✅ Only Pull Request  
-- ✅ Code review required  
-
----
-
-## 📂 Project Structure
-
-```
-smart-exam/
-├── frontend/
-├── backend/
-├── ai-proctor/
-├── database/
-└── README.md
-```
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-<div align="center">
-
-⭐ Star this repo if you like it  
-🚀 Built with team effort  
-
-</div>
+Rajvardhan Singh
+Place: Indore
+Date: 2026
